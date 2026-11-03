@@ -8,5 +8,13 @@
         "1B:84:0A:26:48:89:E0:0E:AA:9A:45:13:31:E3:08:DF:BD:5B:DB:90:46:F7:29:21:E3:26:32:92:4B:E1:E9:32"
       ]
     }
-  }
+  },[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.adustech.learn",
+        "sha256_cert_fingerprints": ["A7:E4:DB:EC:F6:B1:70:7B:0E:F5:65:23:22:75:F2:37:2F:6C:54:B0:AA:4D:69:30:80:2D:03:9F:64:58:58:9C"]
+      }
+    }]
+
 ]
