@@ -8,7 +8,7 @@
         "1B:84:0A:26:48:89:E0:0E:AA:9A:45:13:31:E3:08:DF:BD:5B:DB:90:46:F7:29:21:E3:26:32:92:4B:E1:E9:32"
       ]
     }
-  },[{
+  },{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
@@ -17,4 +17,4 @@
       }
     }]
 
-]
+
